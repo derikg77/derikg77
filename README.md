@@ -1,8 +1,8 @@
 ## Derik Gonçalves
 
-- Trabalho com Front-End
-- Estudando JavaScript
-- Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+- Working with Front End
+- Studying JavaScript ES6+
+- I enjoy creating great software and helping others do the same.
 
 <div align="center">
   <a href="https://github.com/derikg77">
