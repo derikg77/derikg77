@@ -2,7 +2,6 @@
 
 - Working with Front End
 - Studying JavaScript ES6+
-- I enjoy creating great software and helping others do the same.
 
 <div align="center">
   <a href="https://github.com/derikg77">
